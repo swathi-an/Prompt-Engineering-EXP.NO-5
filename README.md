@@ -1,4 +1,4 @@
-[Swathi A N Exp 5 PE.pdf](https://github.com/user-attachments/files/28226864/Swathi.A.N.Exp.5.PE.pdf)
+
 EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
 Aim:
